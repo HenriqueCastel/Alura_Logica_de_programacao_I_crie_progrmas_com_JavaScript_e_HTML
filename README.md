@@ -1,4 +1,4 @@
-# Lógica de programação I: crie programas com JavaScript e HTML
+# Javascript e HTML: desenvolva um jogo e pratique lógica de programação
 
 ### Faça esse curso de Lógica de programação e:
 
